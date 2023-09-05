@@ -1,0 +1,3 @@
+D:/Project/Code/STM32/HK_FOC_code/myFOCDriver/cmake-build-debug/CMakeFiles/myFOCDriver.elf.dir
+D:/Project/Code/STM32/HK_FOC_code/myFOCDriver/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/Code/STM32/HK_FOC_code/myFOCDriver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
